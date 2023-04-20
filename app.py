@@ -1,4 +1,5 @@
 # We import the necessary libraries (requests, argparse, chalk, and pyfiglet).
+# requests should be also installed, it's not a builtin library
 import requests
 import argparse
 import pyfiglet
